@@ -1,0 +1,11 @@
+# Project exclude paths
+/target/
+/.idea
+/.gradle
+/repo
+/data
+/DB_desc
+/logs
+*.properties
+*.cfg.xml
+*.jar
